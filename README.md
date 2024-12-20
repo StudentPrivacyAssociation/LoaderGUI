@@ -24,3 +24,6 @@ just the GUI Loader for our LockDown AntiAntiVM
     ```sh
     go build -o GUI_Loader
     ```
+## Preview
+
+![image](https://github.com/user-attachments/assets/59107057-be31-4328-823c-1fa930d57a57)
